@@ -1,8 +1,0 @@
-Just a dummy file to create a folder on github repo itself
-Didn't deem sufficient to:
-  1) Link
-  2) Downstream data (or Pull)
-  3) Upload data (or Push)
-  4) Making a Pull request
-  5) Certifying the Pull Request
-  6) Deleting the additional branch
